@@ -118,7 +118,7 @@ $currentTime = time();
             <div>Wind: <?php echo $data->wind->speed; ?> km/h</div>
         </div>
     </div>
-    <p><a href="/details.php">details a3</a></p>
+    <p><a href="/~s3901105/wp/a3/details.php">details a3</a></p>
 </body>
 
 
